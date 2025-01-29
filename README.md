@@ -1,1 +1,1 @@
-# Algorithmic_Trading_META
+# Predictive Stock Analysis and Simulation – META
