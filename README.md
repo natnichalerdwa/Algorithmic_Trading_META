@@ -58,6 +58,9 @@ This project focuses on analyzing and predicting META stock price trends using s
 * Profitable trading signals generated through technical indicators and predictive modeling
 * Benchmark study confirmed the effectiveness of combining statistical models and technical analysis for stock trading
 
+* To run streamlit dashboard:
+streamlit run app.py
+
 ## Team members
 * Lerdwanawattana, Natnicha
 * Liu, Hu
